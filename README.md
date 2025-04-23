@@ -21,8 +21,11 @@ MySQL (via mysql-connector-python)
 
 📂 Project Structure
 employee-management-system/
+<br>
 ├── loginproj.py           # Handles login/registration and database setup
+<br>
 ├── comproject.py     # Main menu and core features (employee management)
+<br>
 ├── README.md         # Project documentation
 
 ⚙️ Setup Instructions
